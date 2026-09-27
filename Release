@@ -1,0 +1,8 @@
+Origin: Chmonya Repo
+label: chmonya
+suite: stable
+Version: 1.0
+codename: iOS
+Architectures: iphoneos-arm iphones-arm64
+components: main
+Description: Репозиторий чмоня с полезными твиками
