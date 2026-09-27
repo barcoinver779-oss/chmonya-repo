@@ -1,0 +1,9 @@
+Package: com.chmonya.myfirsttweak
+Name: Chmonya repo
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: Описание вашего твика или приложения для Cydia
+Maintainer: barcoinver779-oss
+Author: barcoinver779-oss
+Section: Tweaks
+Filename: debs/tweak.deb
