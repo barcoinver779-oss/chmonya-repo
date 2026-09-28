@@ -3,7 +3,7 @@ Label: Chimonya
 Suite: stable
 Version: 1.0
 Codename: ios
-Architectures: iphoneos-arm, iphoneos-arm64
+Architectures: iphoneos-arm iphoneos-arm64
 Components: main
-Date: Sun, 27 Sep 2026 23:24:00 +0000
-Description: Лучшый репо с твинками:3
+Date: Mon, 28 Sep 2026 12:00:00 +0000
+Description: Лучший репо с твиками :3
