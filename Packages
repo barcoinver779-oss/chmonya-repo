@@ -1,13 +1,27 @@
-Package: com.chimonya.myfirstweak
-Name: My First Tweak
-Version: 1.0.0
-Architecture: iphoneos-arm64
-Depends: mobilesubstrate, firmware (>= 12.0)
-Description: Лучшый репо с твинками:3
-Maintainer: barcoinver779-oss <your-paradoxial.glass@gmail.com>
-Author: barcoinver779-oss
+Package: com.r333d.cylinder
+Name: Cylinder
+Version: 1.1
+Architecture: iphoneos-arm
+Depends: firmware (>= 3.0), mobilesubstrate (>= 0.9.6011), preferenceloader
+Description: Make your icons dance
+Maintainer: Reed Weichler <rweichler+cydia@gmail.com>
+Author: Reed Weichler (rweichler)
 Section: Tweaks
-Homepage: https://github.com/barcoinver779-oss
+Homepage: http://github.com/rweichler/cylinder
 Filename: debs/tweak.deb
-Size: 1024
-MD5sum: abc123def456
+Size: 504158
+MD5sum: 5ee38e435b03e82d6347c9354e5376c8
+SHA256: ccbf27d6b711353fe65f6af6aa0b6c5ffc5901b9af59d39a15fbf6eb73e4b281
+
+Package: ru.iklassika.store
+Name: iKlassika
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Legacy iOS application store for iOS 6
+Maintainer: iKlassika
+Author: iKlassika
+Section: Applications
+Filename: debs/ru_iklassika_store.deb
+Size: 1675232
+MD5sum: cd56cb1148c4b873e5059cfeedee646f
+SHA256: b52dce461aa91cca1a478aa602e1be8512729b05550256c9bd2f29e586760401
